@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6AEAB7CDD28020014AA3CCCD /* Pods_instagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F9BE69980CE7BEBC63E1B59 /* Pods_instagram.framework */; };
-		B83620A727F628A20086F964 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83620A627F628A20086F964 /* CommentCell.swift */; };
+		B83620AB27F643990086F964 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83620AA27F643990086F964 /* CommentCell.swift */; };
 		B89D78E127ED66E600BB971F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89D78E027ED66E600BB971F /* AppDelegate.swift */; };
 		B89D78E327ED66E600BB971F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B89D78E227ED66E600BB971F /* SceneDelegate.swift */; };
 		B89D78E827ED66E600BB971F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B89D78E627ED66E600BB971F /* Main.storyboard */; };
@@ -23,7 +23,7 @@
 /* Begin PBXFileReference section */
 		39EDBE5634B7011EFD4E44DF /* Pods-instagram.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-instagram.debug.xcconfig"; path = "Target Support Files/Pods-instagram/Pods-instagram.debug.xcconfig"; sourceTree = "<group>"; };
 		7F9BE69980CE7BEBC63E1B59 /* Pods_instagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_instagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		B83620A627F628A20086F964 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
+		B83620AA27F643990086F964 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		B89D78DD27ED66E600BB971F /* instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B89D78E027ED66E600BB971F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B89D78E227ED66E600BB971F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,7 +83,7 @@
 				B89D78E027ED66E600BB971F /* AppDelegate.swift */,
 				B89D78E227ED66E600BB971F /* SceneDelegate.swift */,
 				B89D78E627ED66E600BB971F /* Main.storyboard */,
-				B83620A627F628A20086F964 /* CommentCell.swift */,
+				B83620AA27F643990086F964 /* CommentCell.swift */,
 				B89D78FE27EE418300BB971F /* PostCell.swift */,
 				B89D78FC27EE172B00BB971F /* CameraViewController.swift */,
 				B89D78F427EE079700BB971F /* FeedViewController.swift */,
@@ -224,7 +224,7 @@
 				B89D78F527EE079700BB971F /* FeedViewController.swift in Sources */,
 				B89D78E327ED66E600BB971F /* SceneDelegate.swift in Sources */,
 				B89D78FF27EE418300BB971F /* PostCell.swift in Sources */,
-				B83620A727F628A20086F964 /* CommentCell.swift in Sources */,
+				B83620AB27F643990086F964 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
